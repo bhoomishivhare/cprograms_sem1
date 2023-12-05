@@ -1,1 +1,1 @@
-# cprograms_sem1
+# C Programming, 1st Semester
